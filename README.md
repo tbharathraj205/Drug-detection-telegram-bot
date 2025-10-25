@@ -19,7 +19,7 @@ It searches for Telegram groups and channels based on drug-related keywords, joi
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/tbharathraj205/Drug-detection-telegram-bot.git](https://github.com/tbharathraj205/Drug-detection-telegram-bot.git)
+    git clone https://github.com/tbharathraj205/Drug-detection-telegram-bot.git
     cd telegram-drug-scraper
     ```
 
